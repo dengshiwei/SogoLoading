@@ -15,7 +15,7 @@ import android.view.animation.AccelerateInterpolator;
  * Created by shiwei.deng on 2015/10/10.
  */
 public class SoGouBrowserLoading extends View{
-    private final String TAG = "QQBrowserLoading";
+    private final String TAG = "Antway.Loading";
     //画笔
     private Paint mPaint;
     //颜色
