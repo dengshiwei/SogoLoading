@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SogoLoadingProject.iml" filepath="$PROJECT_DIR$/.idea/modules/SogoLoadingProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SogoLoading/SogoLoadingProject.SogoLoading.iml" filepath="$PROJECT_DIR$/.idea/modules/SogoLoading/SogoLoadingProject.SogoLoading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SogoLoadingProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SogoLoadingProject.app.iml" />
+    </modules>
+  </component>
+</project>

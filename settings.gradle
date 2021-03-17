@@ -1,0 +1,3 @@
+include ':SogoLoading'
+include ':app'
+rootProject.name = "SogoLoadingProject"
