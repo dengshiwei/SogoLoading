@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SogoLoadingProject.iml" filepath="$PROJECT_DIR$/.idea/modules/SogoLoadingProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SogoLoading/SogoLoadingProject.SogoLoading.iml" filepath="$PROJECT_DIR$/.idea/modules/SogoLoading/SogoLoadingProject.SogoLoading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SogoLoadingProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SogoLoadingProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SogoLoading.iml" filepath="$PROJECT_DIR$/.idea/modules/SogoLoading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SogoLoading/SogoLoading.SogoLoading.iml" filepath="$PROJECT_DIR$/.idea/modules/SogoLoading/SogoLoading.SogoLoading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SogoLoading.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SogoLoading.app.iml" />
     </modules>
   </component>
 </project>

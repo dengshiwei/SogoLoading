@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dengshiwei:SogoLoading:0.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9bfa2001c8110d80d9dff0121a67b30f/jetified-SogoLoading-0.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9bfa2001c8110d80d9dff0121a67b30f/jetified-SogoLoading-0.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9bfa2001c8110d80d9dff0121a67b30f/jetified-SogoLoading-0.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.dengshiwei/SogoLoading/0.0.2/f1e0e23c95e62697b16839ed1abf6ead39c67075/SogoLoading-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
